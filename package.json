@@ -1,0 +1,30 @@
+{
+  "name": "generator-moebiusmania",
+  "version": "0.1.0",
+  "description": " Set of generators for personal projects/purpose.",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moebiusmania/generator-moebiusmania.git"
+  },
+  "keywords": [
+    "generator",
+    "yeoman",
+    "yo",
+    "moebiusmania"
+  ],
+  "author": "Salvatore Laisa <moebiusmania@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moebiusmania/generator-moebiusmania/issues"
+  },
+  "homepage": "https://github.com/moebiusmania/generator-moebiusmania#readme",
+  "dependencies": {
+    "chalk": "false2.1.0",
+    "yeoman-generator": "false2.0.0",
+    "yosay": "false2.0.1"
+  }
+}
