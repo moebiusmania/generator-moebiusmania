@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/moebiusmania/generator-moebiusmania#readme",
   "dependencies": {
-    "chalk": "false2.1.0",
-    "yeoman-generator": "false2.0.0",
-    "yosay": "false2.0.1"
+    "chalk": "2.1.0",
+    "yeoman-generator": "2.0.0",
+    "yosay": "2.0.1"
   }
 }
